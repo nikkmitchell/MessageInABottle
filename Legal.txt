@@ -1,0 +1,29 @@
+---
+
+**LEGAL INFORMATION FOR MESSAGE IN A BOTTLE**
+
+---
+
+**1. TERMS OF USE**
+
+This plugin ("Plugin") allows users to send, retrieve, append, and keep messages in a virtual bottle. 
+
+**2. PRIVACY**
+
+Our Plugin does not collect any personal data from its users. All messages sent, retrieved, appended, or kept are provided by the users themselves.
+
+**3. USER RESPONSIBILITIES**
+
+By using this Plugin, you agree to use it in a manner that complies with all applicable local, state, national, and international laws and regulations. You are responsible for the content of the messages you send. 
+
+**4. INTELLECTUAL PROPERTY**
+
+All messages sent through this Plugin are the intellectual property of the users who wrote them. By sending a message, you grant other users the right to read, keep, or append to your message. 
+
+**5. LIABILITY AND WARRANTY**
+
+This Plugin is provided on an "as is" basis. We make no guarantees about the continuous availability of the Plugin or the messages sent through it. We are not responsible for any data charges, loss, or damage resulting from the use of this Plugin.
+
+**6. CHANGES TO THIS POLICY**
+
+We may revise this legal document from time to time. The most current version will always be posted on our Plugin description page.
